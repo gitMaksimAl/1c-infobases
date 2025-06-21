@@ -17,10 +17,10 @@
 			<Metadata name="Catalog.Сотрудники.TabularSection.ТрудоваяДеятельность.Attribute.НачалоРаботы" id="7b3b5e23-6053-4550-a692-5696f8ebaa43"/>
 			<Metadata name="Catalog.Сотрудники.TabularSection.ТрудоваяДеятельность.Attribute.Организация" id="9eaccb2f-444b-437c-b57e-ad7620afb5cc"/>
 		</Metadata>
-		<Metadata name="CommonModule.РаботаСДокументами" id="da7b683b-f349-4ef6-8e25-09b26e171c6b" configVersion="fefc9d1434e45d458cf66b88e7423c2300000000"/>
-		<Metadata name="CommonModule.РаботаСДокументами.Module" id="da7b683b-f349-4ef6-8e25-09b26e171c6b.0" configVersion="0d5caa6fe9043542a65c2509bbb70b3e00000000"/>
-		<Metadata name="CommonModule.РаботаСоСправочниками" id="66b6d244-1d48-42ab-b7bf-bdabe5c2dc42" configVersion="9a4494b676b3734ab06d9eb35071a18a00000000"/>
-		<Metadata name="CommonModule.РаботаСоСправочниками.Module" id="66b6d244-1d48-42ab-b7bf-bdabe5c2dc42.0" configVersion="374716524dbfe94781cce9486dd0abd700000000"/>
+		<Metadata name="CommonModule.РаботаСДокументами" id="da7b683b-f349-4ef6-8e25-09b26e171c6b" configVersion="de105db8bc9830419d8b9e921c26461300000000"/>
+		<Metadata name="CommonModule.РаботаСДокументами.Module" id="da7b683b-f349-4ef6-8e25-09b26e171c6b.0" configVersion="7a23e7fd5f0a0e47b8ebb61c741dd97000000000"/>
+		<Metadata name="CommonModule.РаботаСоСправочниками" id="66b6d244-1d48-42ab-b7bf-bdabe5c2dc42" configVersion="e4dfb0d4b4143048808d4b66c70ce43900000000"/>
+		<Metadata name="CommonModule.РаботаСоСправочниками.Module" id="66b6d244-1d48-42ab-b7bf-bdabe5c2dc42.0" configVersion="60d39ad53c061d4a811f1544c3ac460000000000"/>
 		<Metadata name="CommonPicture.БухКартинка" id="b2283c1d-1a2f-40fa-bf8c-239843a4d241" configVersion="029daa43ee719c4e8c9e8d573bb7a04900000000"/>
 		<Metadata name="CommonPicture.БухКартинка.Picture" id="b2283c1d-1a2f-40fa-bf8c-239843a4d241.0" configVersion="070271acfe11e240a0e6234285727e5100000000"/>
 		<Metadata name="CommonPicture.ЗакрытиеФормы" id="4f802b98-b543-4605-8069-db81306445ba" configVersion="49422a5137909848a5a37e0cf5bdf16400000000"/>
@@ -47,8 +47,8 @@
 			<Metadata name="Document.ОказаниеУслуги.Command.Печать" id="e601ab26-323a-4cd8-abf4-34f079f5f2b4"/>
 		</Metadata>
 		<Metadata name="Document.ОказаниеУслуги.Command.Печать.CommandModule" id="e601ab26-323a-4cd8-abf4-34f079f5f2b4.2" configVersion="45b2819308989940ba03dd5e7ba42b3b00000000"/>
-		<Metadata name="Document.ОказаниеУслуги.Form.ФормаДокумента" id="5be47653-4cc8-4844-a9f9-6d7ac3a8f7ef" configVersion="64f5aaacab14f04fbd8a38a164aa1e5a00000000"/>
-		<Metadata name="Document.ОказаниеУслуги.Form.ФормаДокумента.Form" id="5be47653-4cc8-4844-a9f9-6d7ac3a8f7ef.0" configVersion="dffce71ae8c30948abe9af47c701fe0b00000000"/>
+		<Metadata name="Document.ОказаниеУслуги.Form.ФормаДокумента" id="5be47653-4cc8-4844-a9f9-6d7ac3a8f7ef" configVersion="4457c86c9f503e4983539d14a966d47e00000000"/>
+		<Metadata name="Document.ОказаниеУслуги.Form.ФормаДокумента.Form" id="5be47653-4cc8-4844-a9f9-6d7ac3a8f7ef.0" configVersion="6c0f2ea29539be46926bf695fd0d1f6c00000000"/>
 		<Metadata name="Document.ОказаниеУслуги.ManagerModule" id="6014ca9d-3b74-41a0-b354-1a6a405a74fd.2" configVersion="d3d1c0ef46fc8d4f809f63d3a92fb79b00000000"/>
 		<Metadata name="Document.ОказаниеУслуги.ObjectModule" id="6014ca9d-3b74-41a0-b354-1a6a405a74fd.0" configVersion="fa737418639a1f438d9d42e7d039201800000000"/>
 		<Metadata name="Document.ОказаниеУслуги.Template.Печать" id="5bfcceea-c63d-4ade-ab64-e27f96cf4010" configVersion="8415ff7ad33b07499167fa3d060e241400000000"/>
