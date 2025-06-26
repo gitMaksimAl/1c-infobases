@@ -159,6 +159,13 @@
 		</Command>
 	</Commands>
 	<CommandInterface>
+		<NavigationPanel>
+			<Item>
+				<Command>AccumulationRegister.ОстаткиМатериалов.StandardCommand.OpenByRecorder</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
+		</NavigationPanel>
 		<CommandBar>
 			<Item>
 				<Command>Form.Command.ЗакрытьФорму</Command>
