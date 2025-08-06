@@ -35,10 +35,6 @@
 			<field>Клиент</field>
 		</field>
 		<field xsi:type="DataSetFieldField">
-			<dataPath>Измерение1</dataPath>
-			<field>Измерение1</field>
-		</field>
-		<field xsi:type="DataSetFieldField">
 			<dataPath>Мастер</dataPath>
 			<field>Мастер</field>
 		</field>
@@ -89,12 +85,12 @@
 		<valueType>
 			<v8:Type>xs:dateTime</v8:Type>
 			<v8:DateQualifiers>
-				<v8:DateFractions>Date</v8:DateFractions>
+				<v8:DateFractions>DateTime</v8:DateFractions>
 			</v8:DateQualifiers>
 		</valueType>
+		<value xsi:type="xs:dateTime">0001-01-01T00:00:00</value>
 		<useRestriction>true</useRestriction>
-		<expression>КонецПериода(&amp;ДатаОкончания, “День”)</expression>
-		<valueListAllowed>true</valueListAllowed>
+		<expression>КонецПериода(&amp;ДатаОкончания, "День")</expression>
 	</parameter>
 	<parameter>
 		<name>ВидНоменклатуры</name>
@@ -109,7 +105,6 @@
 		</valueType>
 		<value xsi:type="dcscor:DesignTimeValue">Перечисление.ВидыНоменклатуры.Услуга</value>
 		<useRestriction>true</useRestriction>
-		<valueListAllowed>true</valueListAllowed>
 	</parameter>
 	<parameter>
 		<name>ДатаОкончания</name>
@@ -134,10 +129,10 @@
 		<dcsset:settings xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows">
 			<dcsset:selection>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
-					<dcsset:field>Выручка</dcsset:field>
+					<dcsset:field>Услуга</dcsset:field>
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
-					<dcsset:field>Услуга</dcsset:field>
+					<dcsset:field>Выручка</dcsset:field>
 				</dcsset:item>
 			</dcsset:selection>
 			<dcsset:dataParameters>
@@ -146,14 +141,14 @@
 					<dcscor:value xsi:type="v8:StandardBeginningDate">
 						<v8:variant xsi:type="v8:StandardBeginningDateVariant">BeginningOfThisMonth</v8:variant>
 					</dcscor:value>
-					<dcsset:userSettingID>49320e6e-d696-4d97-b161-be5fef350096</dcsset:userSettingID>
+					<dcsset:userSettingID>0f01e7e1-fe3c-43be-8c1a-a91b77693cfe</dcsset:userSettingID>
 				</dcscor:item>
 				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
 					<dcscor:parameter>ДатаОкончания</dcscor:parameter>
 					<dcscor:value xsi:type="v8:StandardBeginningDate">
 						<v8:variant xsi:type="v8:StandardBeginningDateVariant">BeginningOfThisDay</v8:variant>
 					</dcscor:value>
-					<dcsset:userSettingID>ef2f388b-7a69-420f-a5de-d96fec2aa2ac</dcsset:userSettingID>
+					<dcsset:userSettingID>0aaeaf03-9475-4588-b82b-540c92a3f0d3</dcsset:userSettingID>
 				</dcscor:item>
 			</dcsset:dataParameters>
 			<dcsset:outputParameters>
