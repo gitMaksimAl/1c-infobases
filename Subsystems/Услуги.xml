@@ -31,6 +31,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Продажи</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.РеестрДокументовОказаниеУслуги</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.РейтингУслуг</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">4ab23e21-4297-4253-b7e8-432baa98fcda</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
