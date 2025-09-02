@@ -274,6 +274,7 @@
 			<Report>ПереченьУслуг</Report>
 			<Report>РейтингКлиентов</Report>
 			<Report>Универсальный</Report>
+			<Report>ОстаткиМатериаловПоСвойствам</Report>
 			<InformationRegister>Цены</InformationRegister>
 			<InformationRegister>ЗначенияСвойствНоменклатуры</InformationRegister>
 			<AccumulationRegister>ОстаткиМатериалов</AccumulationRegister>
