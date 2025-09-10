@@ -33,6 +33,10 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ПереченьУслуг</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.РейтингКлиентов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ОстаткиМатериаловПоСвойствам</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">ChartOfCharacteristicTypes.ВидыСубконто</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">ChartOfAccounts.Основной</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccountingRegister.Управленческий</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ОборотноСальдоваяВедомость</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

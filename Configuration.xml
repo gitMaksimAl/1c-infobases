@@ -264,6 +264,7 @@
 			<Catalog>Склады</Catalog>
 			<Catalog>ВариантыНоменклатуры</Catalog>
 			<Catalog>ДополнительныеСвойстваНоменклатуры</Catalog>
+			<Catalog>Субконто</Catalog>
 			<Document>ПриходнаяНакладная</Document>
 			<Document>ОказаниеУслуги</Document>
 			<Enum>ВидыНоменклатуры</Enum>
@@ -275,12 +276,16 @@
 			<Report>РейтингКлиентов</Report>
 			<Report>Универсальный</Report>
 			<Report>ОстаткиМатериаловПоСвойствам</Report>
+			<Report>ОборотноСальдоваяВедомость</Report>
 			<InformationRegister>Цены</InformationRegister>
 			<InformationRegister>ЗначенияСвойствНоменклатуры</InformationRegister>
 			<AccumulationRegister>ОстаткиМатериалов</AccumulationRegister>
 			<AccumulationRegister>СтоимостьМатериалов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 			<ChartOfCharacteristicTypes>СвойстваНоменклатуры</ChartOfCharacteristicTypes>
+			<ChartOfCharacteristicTypes>ВидыСубконто</ChartOfCharacteristicTypes>
+			<ChartOfAccounts>Основной</ChartOfAccounts>
+			<AccountingRegister>Управленческий</AccountingRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
