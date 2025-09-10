@@ -276,6 +276,7 @@
 			<Report>РейтингКлиентов</Report>
 			<Report>Универсальный</Report>
 			<Report>ОстаткиМатериаловПоСвойствам</Report>
+			<Report>ОборотноСальдоваяВедомость</Report>
 			<InformationRegister>Цены</InformationRegister>
 			<InformationRegister>ЗначенияСвойствНоменклатуры</InformationRegister>
 			<AccumulationRegister>ОстаткиМатериалов</AccumulationRegister>
