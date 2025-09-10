@@ -265,8 +265,10 @@
 			<Catalog>ВариантыНоменклатуры</Catalog>
 			<Catalog>ДополнительныеСвойстваНоменклатуры</Catalog>
 			<Catalog>Субконто</Catalog>
+			<Catalog>ВидыГрафиковРаботы</Catalog>
 			<Document>ПриходнаяНакладная</Document>
 			<Document>ОказаниеУслуги</Document>
+			<Document>НачисленияСотрудникам</Document>
 			<Enum>ВидыНоменклатуры</Enum>
 			<Report>Материалы</Report>
 			<Report>РеестрДокументовОказаниеУслуги</Report>
@@ -279,6 +281,7 @@
 			<Report>ОборотноСальдоваяВедомость</Report>
 			<InformationRegister>Цены</InformationRegister>
 			<InformationRegister>ЗначенияСвойствНоменклатуры</InformationRegister>
+			<InformationRegister>ГрафикиРаботы</InformationRegister>
 			<AccumulationRegister>ОстаткиМатериалов</AccumulationRegister>
 			<AccumulationRegister>СтоимостьМатериалов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
@@ -286,6 +289,8 @@
 			<ChartOfCharacteristicTypes>ВидыСубконто</ChartOfCharacteristicTypes>
 			<ChartOfAccounts>Основной</ChartOfAccounts>
 			<AccountingRegister>Управленческий</AccountingRegister>
+			<ChartOfCalculationTypes>ОсновныеНачисления</ChartOfCalculationTypes>
+			<CalculationRegister>Начисления</CalculationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Recalculation uuid="da1b516f-8bd8-4d74-807d-d6ff65a0b68a">
+		<InternalInfo>
+			<xr:GeneratedType name="RecalculationRecord.Начисления.Перерасчет" category="Record">
+				<xr:TypeId>be2d1367-afed-44ed-af50-8650ad356451</xr:TypeId>
+				<xr:ValueId>d68285f8-a432-4f00-ba1c-b6bf57ff7324</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="RecalculationManager.Начисления.Перерасчет" category="Manager">
+				<xr:TypeId>33fa9ca7-5c67-4d7e-aa5b-fc8cc55efc7d</xr:TypeId>
+				<xr:ValueId>e040e0ae-c3a8-4744-9ecc-d37f56555259</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="RecalculationRecordSet.Начисления.Перерасчет" category="RecordSet">
+				<xr:TypeId>1fe8285c-f0e8-47ea-ad6b-d7bc29934ba1</xr:TypeId>
+				<xr:ValueId>a2a09a11-a11e-4044-81d5-0b1f8a7fc96a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>Перерасчет</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Перерасчет</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<DataLockControlMode>Managed</DataLockControlMode>
+		</Properties>
+		<ChildObjects>
+			<Dimension uuid="fb652806-f916-4819-af6f-7d33539b5a36">
+				<Properties>
+					<Name>Сотрудник</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Сотрудник</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<RegisterDimension>CalculationRegister.Начисления.Dimension.Сотрудник</RegisterDimension>
+					<LeadingRegisterData>
+						<xr:Item xsi:type="xr:MDObjectRef">CalculationRegister.Начисления.Dimension.Сотрудник</xr:Item>
+					</LeadingRegisterData>
+				</Properties>
+			</Dimension>
+		</ChildObjects>
+	</Recalculation>
+</MetaDataObject>
