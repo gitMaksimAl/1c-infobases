@@ -279,6 +279,7 @@
 			<Report>Универсальный</Report>
 			<Report>ОстаткиМатериаловПоСвойствам</Report>
 			<Report>ОборотноСальдоваяВедомость</Report>
+			<Report>Перерасчет</Report>
 			<InformationRegister>Цены</InformationRegister>
 			<InformationRegister>ЗначенияСвойствНоменклатуры</InformationRegister>
 			<InformationRegister>ГрафикиРаботы</InformationRegister>
