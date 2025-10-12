@@ -258,6 +258,7 @@
 			<CommonPicture>ЗакрытиеФормы</CommonPicture>
 			<CommonModule>РаботаСДокументами</CommonModule>
 			<CommonModule>РаботаСоСправочниками</CommonModule>
+			<CommonModule>ПроведениеРасчетов</CommonModule>
 			<Catalog>Клиенты</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Номенклатура</Catalog>
