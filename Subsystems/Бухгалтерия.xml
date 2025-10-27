@@ -37,6 +37,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">ChartOfAccounts.Основной</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccountingRegister.Управленческий</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ОборотноСальдоваяВедомость</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.НачисленияСотрудникам</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

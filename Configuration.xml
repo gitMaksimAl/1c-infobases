@@ -281,6 +281,7 @@
 			<Report>ОстаткиМатериаловПоСвойствам</Report>
 			<Report>ОборотноСальдоваяВедомость</Report>
 			<Report>Перерасчет</Report>
+			<Report>НачисленияСотрудникам</Report>
 			<InformationRegister>Цены</InformationRegister>
 			<InformationRegister>ЗначенияСвойствНоменклатуры</InformationRegister>
 			<InformationRegister>ГрафикиРаботы</InformationRegister>
