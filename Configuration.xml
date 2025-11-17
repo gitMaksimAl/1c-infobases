@@ -282,6 +282,7 @@
 			<Report>ОборотноСальдоваяВедомость</Report>
 			<Report>Перерасчет</Report>
 			<Report>НачисленияСотрудникам</Report>
+			<Report>ДиаграммаНачислений</Report>
 			<InformationRegister>Цены</InformationRegister>
 			<InformationRegister>ЗначенияСвойствНоменклатуры</InformationRegister>
 			<InformationRegister>ГрафикиРаботы</InformationRegister>

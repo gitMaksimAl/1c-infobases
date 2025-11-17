@@ -27,6 +27,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Document.НачисленияСотрудникам</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.Перерасчет</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.НачисленияСотрудникам</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ДиаграммаНачислений</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
