@@ -7,7 +7,15 @@
 	<CustomSettingsFolder>КомпоновщикНастроекПользовательскиеНастройки</CustomSettingsFolder>
 	<ReportResultViewMode>Auto</ReportResultViewMode>
 	<ViewModeApplicationOnSetReportResult>Auto</ViewModeApplicationOnSetReportResult>
-	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1">
+		<ChildItems>
+			<Button name="ФормаПерерассчитать" id="6">
+				<Type>CommandBarButton</Type>
+				<CommandName>Form.Command.Перерассчитать</CommandName>
+				<ExtendedTooltip name="ФормаПерерассчитатьРасширеннаяПодсказка" id="7"/>
+			</Button>
+		</ChildItems>
+	</AutoCommandBar>
 	<ChildItems>
 		<UsualGroup name="КомпоновщикНастроекПользовательскиеНастройки" id="1">
 			<Title>

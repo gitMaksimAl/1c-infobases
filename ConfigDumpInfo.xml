@@ -156,8 +156,8 @@
 		<Metadata name="Report.Материалы.Template.ОсновнаяСхемаКомпоновкиДанных" id="2d499ee6-556b-43cc-8266-2747d2a85798" configVersion="dbac88774c1e8943bdee1f401361aa0a00000000"/>
 		<Metadata name="Report.Материалы.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="2d499ee6-556b-43cc-8266-2747d2a85798.0" configVersion="704e45110382fc4d952c52c10e9429cb00000000"/>
 		<Metadata name="Report.НачисленияСотрудникам" id="1012ad15-f7a5-4d2d-bfa6-21669aaa9dbc" configVersion="282d671d8d220141b7580e9b95a8087a00000000"/>
-		<Metadata name="Report.НачисленияСотрудникам.Form.ФормаОтчета" id="944634b9-2a49-492f-be1f-6d64bf6f48d8" configVersion="423f1955455a7d4ab3dec290834d1d2a00000000"/>
-		<Metadata name="Report.НачисленияСотрудникам.Form.ФормаОтчета.Form" id="944634b9-2a49-492f-be1f-6d64bf6f48d8.0" configVersion="3260f3055eeba343b85176baeadfbff800000000"/>
+		<Metadata name="Report.НачисленияСотрудникам.Form.ФормаОтчета" id="944634b9-2a49-492f-be1f-6d64bf6f48d8" configVersion="060d554e4cf1bf4d98e0dc9a9f415fce00000000"/>
+		<Metadata name="Report.НачисленияСотрудникам.Form.ФормаОтчета.Form" id="944634b9-2a49-492f-be1f-6d64bf6f48d8.0" configVersion="1af6f6070df2a545b01b47a97d85da3e00000000"/>
 		<Metadata name="Report.НачисленияСотрудникам.Template.ОсновнаяСхемаКомпоновкиДанных" id="945a725e-597b-43b0-9999-559e5a1023ea" configVersion="ef2d7889f59c8145b75ea36cfb4de9ef00000000"/>
 		<Metadata name="Report.НачисленияСотрудникам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="945a725e-597b-43b0-9999-559e5a1023ea.0" configVersion="835b31c787c57e43b03100660993e78e00000000"/>
 		<Metadata name="Report.ОборотноСальдоваяВедомость" id="0b32f819-58b5-4bab-928b-4c967ea13e0c" configVersion="3b1f2894502363419fa0bd172ca7aea200000000"/>
